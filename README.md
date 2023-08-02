@@ -49,7 +49,7 @@ On this GitHub page, you can access the complete source code of the Netflix clon
 ### Getting Started
 To run the app in your local Flutter development environment and experience a Netflix-like interface, follow these steps:
 
-Clone this project from GitHub: git clone https://github.com/Username/ProjectName.git
+Clone this project from GitHub: git clone https://github.com/sahinenes/netflix.git
 Set up your Flutter development environment and add the Flutter SDK to the project.
 Run flutter pub get in the terminal to install project dependencies.
 Enter flutter run in the terminal to launch the app.
